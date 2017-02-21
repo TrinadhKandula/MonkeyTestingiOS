@@ -1,2 +1,2 @@
 # MonkeyTestingiOS
-MonkeyTestingiOS is a monkey testing tool written using xcuitest &amp; compatible with latest xcode versions
+MonkeyTestingiOS is a stress testing script written using xcuitest & compatible with latest xcode versions
