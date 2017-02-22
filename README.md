@@ -11,7 +11,7 @@ Easy to use in CI.
 
 How to use
 ----------
-
+See the sample project on how to use the MonkeyTestingiOS tool
 
 Contributing to MonkeyTestingiOS
 ---------------------
@@ -27,5 +27,5 @@ Contributing to MonkeyTestingiOS
 Copyright
 ----------
 
-Copyright (c) 2016 Kandula, Trinadh. See LICENSE.txt for
-further details.
+Copyright (c) 2017 TrinadhKandula. 
+See LICENSE.txt for further details.
