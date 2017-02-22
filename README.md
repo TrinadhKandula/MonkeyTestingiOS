@@ -7,7 +7,7 @@ MonkeyTestingiOS is a stress testing script written using xcuitest & compatible 
 Since latest versions of xcode donot support UIAutomation on which ui-auto-monkey mainly works on, MonkeyTestingiOS tool comes to your rescue.
 
 Supports versions of xcode7+. 
-Easy to user in CI.
+Easy to use in CI.
 
 How to use
 ----------
