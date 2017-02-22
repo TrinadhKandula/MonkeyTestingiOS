@@ -11,7 +11,8 @@ Easy to use in CI.
 
 How to use
 ----------
-See the sample project on how to use the MonkeyTestingiOS tool
+See the sample project on how to use the MonkeyTestingiOS tool.
+Select "MonkeyTest" target & press ⌘U
 
 Contributing to MonkeyTestingiOS
 ---------------------
